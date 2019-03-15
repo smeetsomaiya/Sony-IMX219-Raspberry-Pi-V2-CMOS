@@ -1,4 +1,4 @@
-# Temperature Sensor sampling attempt - Sony-IMX219-Raspberry-Pi-V2-CMOS
+# Temperature Sensor sampling attempt, Sony-IMX219-Raspberry-Pi-V2-CMOS
 
 # Update
 
